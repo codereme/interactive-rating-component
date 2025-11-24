@@ -101,8 +101,8 @@ html {
   max-inline-size: 36ch;
 }
 .description--rating {
-  width: 65%;
-  padding: var(--spacing-sm) var(--spacing-md);
+  width: 70%;
+  padding: var(--spacing-sm);
   border-radius: var(--border-radius-md);
   background-color: var(--grey-900);
   color: var(--orange-500);
