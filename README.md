@@ -21,7 +21,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-08-pm-GsQy](https://www.frontendmentor.io/solutions/interactive-rating-component-08-pm-GsQy)
 
 - Live Site URL: [https://codereme.github.io/interactive-rating-component](https://codereme.github.io/interactive-rating-component)
 
